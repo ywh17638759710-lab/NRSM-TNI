@@ -8,3 +8,5 @@ Methods for Enhancing the Transferability of Image Adversarial Examples
 - scipy > 1.1.0
 - pandas >= 1.0.1
 - imageio >= 2.6.1
+# Prepare the data and models
+You should download the [data]([https://xxx.com/data.zip](https://drive.google.com/drive/folders/1CfobY6i8BfqfWPHL31FKFDipNjqWwAhS)) and [pretrained models]([https://xxx.com/models.zip](https://drive.google.com/drive/folders/10cFNVEhLpCatwECA6SPB-2g0q5zZyfaw)) and place the data and pretrained models in `dev_data/` and `models/`, respectively.
